@@ -1,0 +1,13 @@
+go 1.20
+
+use (
+	./lab01_UML
+	./lab02_Factory_Method
+	./lab03_Abstract_Factory
+	./lab04_Builder
+	./lab05_Prototype
+	./lab06_Singelton
+	./lab10_Decorator
+	./lab14_Chain
+	./lab21_Strategy
+  )
